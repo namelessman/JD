@@ -156,6 +156,7 @@ body{
 #navLeft li:hover .subMenu{
 	display: block;
 	color: #000;
+	font-size:30px;
 }
 
 /*左侧次级导航*/
